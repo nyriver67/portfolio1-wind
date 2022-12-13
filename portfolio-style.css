@@ -1,0 +1,132 @@
+.selector
+
+ body{
+    font-family: "Grumpy", sans-serif;
+ }
+
+ .font-primary{
+    color: orange;
+}
+
+body{
+    background-color:#4683AE;
+    
+}
+
+
+.title-icon{
+    font-size:50px;
+    font-weight: 650;
+}
+
+p{
+    font-size: 20px;
+    color: darkgray;
+
+}
+h2{
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 20px;
+    color:aliceblue;
+}
+
+a.font-black{
+    color: aliceblue !important;
+}
+
+a.title-icon{
+    color:aliceblue;
+}
+/***************
+
+About
+
+***************/
+#about{
+    margin: 60px auto;
+    max-width:400px;
+    text-align: center;
+}
+#about .font-primary2{
+    color:#051fb4;
+}
+
+#projects .font-project{
+    color:#051fb4;
+}
+
+#about img{
+    border-radius: 50;
+    width: 120px;
+    margin-bottom: 10px;
+}
+
+#about .name{
+    font-size: 30px;
+    color: orange;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+#about .vocation{
+    font-size: 25px;
+    color: #3e388a;
+    margin-bottom: 5px;
+}
+
+#about .skills{
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 30;
+    color: #403D3D;
+    margin-bottom: 5px;
+}
+
+#about .education{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #120695;
+}
+
+#about .email{
+    margin-top: 5px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gold;
+}
+
+#about .icons{
+      margin-top: 10px;
+      font-size: 45px;
+      
+}
+
+#about .icons a{
+    color: black;
+}
+
+/***************
+
+PROJECT
+
+***************/
+
+#projects{
+    margin: 60px auto;
+    text-align: center;
+}
+
+#projects h2{
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 20px;
+    color:aliceblue;
+    
+}
+
+#project .card img {
+    width: 100%;
+}
+   
+#projects .card-text{
+    text-align: center;
+}
